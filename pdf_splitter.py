@@ -19,7 +19,7 @@ from pathlib import Path
 # Constants
 IN_DIR = '.\\input_splitter'
 OUT_DIR = '.\\output_splitter'
-NUM_FORMAT = '_%.2s'
+NUM_FORMAT = '_%.2d'
 
 
 # Main
