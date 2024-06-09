@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 #
-# pdf_rotater.py
+# pdf_splitter.py
 #
 # Date    : 2024-06-09
 # Auther  : Hirotoshi FUJIBE
