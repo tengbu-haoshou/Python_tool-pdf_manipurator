@@ -1,6 +1,8 @@
 /.idea
 /venv
-/input_rotater/*.pdf
 /input_merger/*.pdf
-/output_rotater/*.pdf
+/input_rotater/*.pdf
+/input_splitter/*.pdf
 /output_merger/*.pdf
+/output_rotater/*.pdf
+/output_splitter/*.pdf
